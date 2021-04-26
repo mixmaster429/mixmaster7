@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![alt text](./senior-developer.jpg)
+
 <!--
 **mixmaster7/mixmaster7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
